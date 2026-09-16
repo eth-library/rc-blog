@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+    xmlns:content="http://purl.org/rss/1.0/modules/content/"
+    xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+    xmlns:dc="http://purl.org/dc/elements/1.1/"
+    xmlns:atom="http://www.w3.org/2005/Atom"
+    xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+    xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+    >
+
+<channel>
+    <title>RC-Blog</title>
+    <atom:link href="https://rc-blog.ethz.ch/de/feed/" rel="self" type="application/rss+xml" />
+    <link>https://rc-blog.ethz.ch</link>
+    <description>Research Collection / Institutional Repository der ETH Zürich</description>
+    <lastBuildDate>Sat, 09 Nov 2024 14:51:25 +0000</lastBuildDate>
+    <language>de-CH</language>
+    <sy:updatePeriod>
+    hourly  </sy:updatePeriod>
+    <sy:updateFrequency>
+    1   </sy:updateFrequency>
+    <generator>https://wordpress.org/?v=6.4.5</generator>
+
+        <item>
+        <title>Thesis Crisis</title>
+        <link>https://rc-blog.ethz.ch/de/coffee-lecture-schuetzen-sie-sich-vor-betruegerischen-verlagen/</link>
+        
+        <dc:creator><![CDATA[Andreas la Roi]]></dc:creator>
+        <pubDate>Wed, 16 Sep 2026 12:27:24 +0000</pubDate>
+                <category><![CDATA[Event]]></category>
+        <guid isPermaLink="false">https://rc-blog.ethz.ch/?p=2749</guid>
+
+                    <description>Find out how to master your studies with the right support and talk to our experts at the 15+ information stands on 28 October.</description>
+                                        <content:encoded><![CDATA[
+<p>Find out how to master your studies with the right support and talk to our experts at the 15+ information stands on 28 October. <a href="https://library.ethz.ch/en/about-us-and-locations/news/news-articles/2026/09/thesis-crisis.html" data-type="link" data-id="https://library.ethz.ch/en/about-us-and-locations/news/news-articles/2026/09/thesis-crisis.html">Read more</a></p>]]></content:encoded>
+                    
+        
+        
+            </item>
+    <item>
+        <title>Fit in research data management</title>
+        <link>https://rc-blog.ethz.ch/de/coffee-lecture-schuetzen-sie-sich-vor-betruegerischen-verlagen/</link>
+        
+        <dc:creator><![CDATA[Barbara Hirschmann]]></dc:creator>
+        <pubDate>Mon, 31 Aug 2026 08:59:24 +0000</pubDate>
+                <category><![CDATA[Event]]></category>
+        <guid isPermaLink="false">https://rc-blog.ethz.ch/?p=2749</guid>
+
+                    <description>Get yourself and your research project in shape with our research data management workshop programme. You can now register for the Autumn Semester 2026 workshops. Read more</description>
+                                        <content:encoded><![CDATA[
+<p>Get yourself and your research project in shape with our research data management workshop programme. You can now register for the Autumn Semester 2026 workshops. <a href="https://library.ethz.ch/en/about-us-and-locations/news/news-articles/2026/08/fit-in-research-data-management.html" data-type="link" data-id="https://library.ethz.ch/en/about-us-and-locations/news/news-articles/2026/08/fit-in-research-data-management.html">Read more</a></p>]]></content:encoded>
+                    
+        
+        
+            </item>
+        <item>
+        <title>Data Stewardship Network for Research Data Management?</title>
+        <link>https://rc-blog.ethz.ch/de/wie-kann-die-metadatenqualitaet-in-offenen-bibliografischen-datenbanken-verbessert-werden/</link>
+        
+        <dc:creator><![CDATA[Barbara Hirschmann]]></dc:creator>
+        <pubDate>Mon, 24 Aug 2026 12:24:36 +0000</pubDate>
+                <category><![CDATA[Event]]></category>
+        <guid isPermaLink="false">https://rc-blog.ethz.ch/?p=2743</guid>
+
+                    <description>Join the network now and benefit from expertise in FAIR data and the experience of a growing community at ETH Zurich. Read more</description>
+                                        <content:encoded><![CDATA[
+<p>Join the network now and benefit from expertise in FAIR data and the experience of a growing community at ETH Zurich.<a href="https://library.ethz.ch/en/about-us-and-locations/news/news-articles/2026/08/data-stewardship-network-for-research-data-management.html" data-type="link" data-id="https://library.ethz.ch/en/about-us-and-locations/news/news-articles/2026/08/data-stewardship-network-for-research-data-management.html">Read more</a></p>
+<]]></content:encoded>
+                    
+        
+        
+
+                    
+        
+        
+            </item>
+    </channel>
+</rss>
